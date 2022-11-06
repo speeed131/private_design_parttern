@@ -1,0 +1,1 @@
+# private_design_parttern
